@@ -1,0 +1,7 @@
+[index]
+
+description = "A set of tools for plotting simple graphs"
+
+tools = [
+    "graph.plot_line_graph",
+]

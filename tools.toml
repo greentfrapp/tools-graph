@@ -3,5 +3,5 @@
 description = "A set of tools for plotting simple graphs"
 
 tools = [
-    "graph.plot_line_graph",
+    "graph.test_np",
 ]

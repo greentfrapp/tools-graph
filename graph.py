@@ -1,7 +1,7 @@
 import numpy as np
 
 
-def plot_line_graph(x: list[float], y: list[float]) -> None:
+def test_np(x: list[float], y: list[float]) -> None:
     """
     Plot a line graph of y against x
     Args:
